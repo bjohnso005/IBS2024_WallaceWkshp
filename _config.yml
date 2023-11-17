@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Unlocking the modularity of Wallace v2:
+description: Incorporating custom R functions into a shiny application for modelling species niches and distributions
+image: /logo.png
