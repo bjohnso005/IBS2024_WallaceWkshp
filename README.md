@@ -1,5 +1,7 @@
-# Unlocking the modularity of Wallace v2: Incorporating custom R functions into a shiny application for modelling species niches and distributions
 ![](logo.png)
+
+# IBS2024 Wallace Workshop
+## Unlocking the modularity of Wallace v2: Incorporating custom R functions into a shiny application for modelling species niches and distributions
 
 # Organizers
 
