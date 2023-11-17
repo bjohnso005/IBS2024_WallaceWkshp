@@ -1,5 +1,4 @@
-# Unlocking the modularity of Wallace v2
-## Incorporating custom R functions into a shiny application for modelling species niches and distributions
+![](logo.png)
 
 # Organizers
 
