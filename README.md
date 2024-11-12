@@ -1,7 +1,5 @@
-![](logo.png)
-
 <div align="center">
-	<img src="logo.png">
+	<img src="logo.png" width="200">
 </div>
 
 # Species Distribution Modeling for Conservation with *Wallace EcoMod*
