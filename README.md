@@ -1,25 +1,45 @@
 ![](logo.png)
 
-# IBS2024 Wallace Workshop
-## Unlocking the modularity of Wallace v2: Incorporating custom R functions into a shiny application for modelling species niches and distributions
-
+# TIBS 2024 Wallace Workshop
+## Species Distribution Modeling for Conservation with *Wallace EcoMod*
 # Organizers
 
--   **Gonzalo E. Pinilla-Buitrago** (gpinillabuitrago@gradcenter.cuny.edu)  
-    The Graduate Center, CUNY, USA  
--   **Bethany A. Johnson** (wallaceecomod@gmail.com)  
-    City College of New York, CUNY, USA  
--   **Jamie Kass** (kass@tohoku.ac.jp)  
-    Tohoku University, Japan  
+-   **Bethany A. Johnson** (wallaceecomod@gmail.com; bjohnso005@citymail.cuny.edu)  
+    Center for Biodiversity & Conservation, American Museum of Natural History  
+-   **Andrea Paz** (andrea.paz.velez@umontreal.ca)  
+    Université de Montréal
 
 # Logistics
-Date: 07 January, 2024  
-Time: TBD  
-Location: TBD  
+Date: 22 November 2024  
+Time: 2:00 – 5:00 p.m. GMT  
+Location: Virtual - Zoom Link to be provided  
 
 # Abstract
-This workshop will introduce participants to *Wallace EcoMod*, a modular `R`-based application for building, evaluating, and visualizing models of species niches and distributions. *Wallace* does this by guiding users through sequential steps of analysis called “components” and methodological options within each component called “modules.” The focus will be on integrating tools from R packages to customize the *Wallace v2* workflow (see requirements below). The workshop will provide an overview of *Wallace*’s functionalities and guide participants through the module authorship process, explaining the steps involved in adding a module, best practices to follow, and the occasional troubleshooting.
+Species distribution modeling (SDM) enables conservation scientists to make range
+estimates for species of concern, as well as predictions of potential range in unsampled areas
+and for different time periods. Since the field’s inception, modeling and methodological best
+practices continue to advance at a rapid pace, and cutting-edge techniques are increasingly
+accessible only to those with advanced programming knowledge. We developed the application
+Wallace EcoMod to lower the barriers for modern species distribution modeling by offering
+access to the latest programmatic tools through an interactive graphical interface. Wallace
+implements a range of analysis functions from existing packages in the R programming
+language without necessitating any user programming knowledge. Additionally, Wallace offers
+extensive guidance text that explains methodological details and theory with literature
+references using simple language that benefits both new and experienced users. Each session
+can be exported as a readable, documented script that can be run to reproduce the analysis in
+R. The Wallace application is available in the R package `wallace`, with a single function that
+opens the interface. It comes equipped with both MaxEnt and BIOCLIM algorithms for modeling
+environmental suitability to estimate species’ ranges.  
+
+In this workshop, we will review the basics of SDM using Wallace, demonstrate key application
+functions, highlight some new features, and show applications to conservation science through
+a brief case study. Participants will also have a chance to work with their own datasets with
+instructor support. Participants should have a minimal understanding of species distribution
+modeling and using R. They will use their own laptops to run Wallace for a hands-on learning
+experience, and will emerge more confident SDM users.  
 
 # Agenda
 
 # External Links
+
+REGISTER HERE: https://biogeography.wildapricot.org/event-5862050/Registration
