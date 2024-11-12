@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Species Distribution Modeling for Conservation with Wallace EcoMod
 description: 2024 Workshop for The International Biogeography Society
 logo: logo.png
+github:
+  is_project_page: false
