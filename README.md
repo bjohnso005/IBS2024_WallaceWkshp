@@ -45,13 +45,16 @@ Hour 1: ...
 Hour 2: ...  
 Hour 3: ...  
 
+# Data
+Add links to the canned dataset.
+
 # External Links
 
 REGISTER HERE: https://biogeography.wildapricot.org/event-5862050/Registration
 
-Wallace website
-Wallace GitHub
-Publications
-1.
-2. 
-3.
+Wallace website  
+Wallace GitHub  
+Publications  
+1.  
+2.   
+3.  
