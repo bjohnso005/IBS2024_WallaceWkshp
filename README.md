@@ -1,7 +1,11 @@
 ![](logo.png)
 
-# TIBS 2024 Wallace Workshop
-## Species Distribution Modeling for Conservation with *Wallace EcoMod*
+<div align="center">
+	<img src="logo.png">
+</div>
+
+# Species Distribution Modeling for Conservation with *Wallace EcoMod*
+
 # Organizers
 
 -   **Bethany A. Johnson** (wallaceecomod@gmail.com; bjohnso005@citymail.cuny.edu)  
@@ -39,7 +43,17 @@ modeling and using R. They will use their own laptops to run Wallace for a hands
 experience, and will emerge more confident SDM users.  
 
 # Agenda
+Hour 1: ...  
+Hour 2: ...  
+Hour 3: ...  
 
 # External Links
 
 REGISTER HERE: https://biogeography.wildapricot.org/event-5862050/Registration
+
+Wallace website
+Wallace GitHub
+Publications
+1.
+2. 
+3.
