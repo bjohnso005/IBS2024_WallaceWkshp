@@ -41,9 +41,18 @@ modeling and using R. They will use their own laptops to run Wallace for a hands
 experience, and will emerge more confident SDM users.  
 
 # Agenda
-Hour 1: ...  
-Hour 2: ...  
-Hour 3: ...  
+Coming soon... 
+
+# Pre- & Post- Workshop Surveys
+
+Please take the pre- and post-workshop surveys. They really help us!
+
+-   Before the workshop: <a href="https://forms.gle/MSMMiShENFYePt6N8" target="_blank">Pre-workshop survey</a>
+
+-   After the workshop: <a href="https://forms.gle/mpxaP5Ypskjjqq7A8" target="_blank">Post-workshop survey</a>
+
+# Installation Instructions
+Coming soon...
 
 # Data
 Add links to the canned dataset.
