@@ -45,11 +45,10 @@ Our 3hr workshop will be divided as follows:
 -   Team & Group Introductions: Who we are & why we are here (40 mins)
 -   Lecture: Introduction to species distribution modeling; Introduction to R & Wallace (40 mins)
 -   Demo: Live demo using Wallace v2.1.3 (20 mins)
--   Short break (10 mins)
--   	During this break we can troubleshoot any installation issues
--   Using Wallace v2 with your own data (30 mins)
+-   Short break (10 mins) *During this break we can troubleshoot any installation issues*
+-   Using Wallace v2 with your own data (35 mins)
 -   Preview of new v3 features for conservation (15 mins)
--   Conclusion & Questions
+-   Conclusion & Questions (20 mins)
 
 # Pre- & Post- Workshop Surveys
 
@@ -63,15 +62,35 @@ Please take the pre- and post-workshop surveys. They really help us!
 Coming soon...
 
 # Data
-Add links to the canned dataset.
+Wallace comes equipped with access to several databases to upload occurrence and environmental data, as well as an option for the user to upload their own datasets.  
+
+<a href="https://drive.google.com/drive/folders/1oqBpCfFLlUUAMtg_63JUX5jpfGgdnw20?usp=sharing" target="_blank">Canned Data</a>  
+Includes:  
+- Occurrence data for two species (*B. neblina* & *B. alleni*)  
+- Environmmental data at 2.5arcmin resolution  
+- a binary SDM  
+- a shapefile of Colombia
+
+Note: If you would like to use your own datasets, please make sure your occurrence data is in a csv format with the first three fields named, "scientific_name", "longitude", & "latitude". See the canned data as an example. Environmental variables should be in raster format, and the same extent and resolution.
+
 
 # External Links
 
 REGISTER HERE: https://biogeography.wildapricot.org/event-5862050/Registration
 
-Wallace website  
-Wallace GitHub  
+<a href="https://wallaceecomod.github.io/" target="_blank">Wallace website</a>  
+
+<a href="https://github.com/wallaceEcoMod" target="_blank">Wallace GitHub</a>  
+
+<a href="https://wallaceecomod.github.io/wallace/articles/tutorial-v2.html" target="_blank">Wallace User Tutorial</a>  
+
 Publications  
-1.  
-2.   
-3.  
+Cite these when using Wallace in your research.  
+1.  Kass et al. (2023). wallace 2: a shiny app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. Ecography, Volume 2023(3), e06547. <a href="https://doi.org/10.1111/ecog.06547" target="_blank">https://doi.org/10.1111/ecog.06547</a> 
+2. Kass et al. (2018). Wallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion. Methods in Ecology and Evolution, 9, 1151–1156. <a href="https://doi.org/10.1111/2041-210X.12945" target="_blank">https://doi.org/10.1111/2041-210X.12945</a>  
+
+# Contact Us
+Wallace EcoMod has an active Google Group you can join to stay in touch with updates and user support.  <a href="https://groups.google.com/g/wallaceecomod" target="_blank">Wallace EcoMod Google Group</a>  
+We also have a team email for support and inquiries: wallaceEcoMod@gmail.com  
+Feel free to use our hashtag to share posts about publications or news using Wallace! **#wallaceEcoMod**
+
