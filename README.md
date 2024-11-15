@@ -59,7 +59,14 @@ Please take the pre- and post-workshop surveys. They really help us!
 -   After the workshop: <a href="https://forms.gle/mpxaP5Ypskjjqq7A8" target="_blank">Post-workshop survey</a>
 
 # Installation Instructions
-Coming soon...
+Even though no R experience is required you will need to have R (https://cran.r-project.org/) and RStudio (https://posit.co/download/rstudio-desktop/) installed before the workshop.  
+After you install them please open RStudio and type `install.packages("wallace")` . This should get the Wallace software installed and save us some time during the workshop. Click <a href="https://docs.google.com/document/d/1KNA4Ih7xljer_lncXDbfR6WefSg8dsSKgRSMbvfjd4Q/edit?tab=t.0#heading=h.nclqola3ytao" target="_blank">here</a> for common troubleshooting tips.  
+
+To make sure you installed the correct version of Wallace type `packageVersion("wallace")` .
+You should see the number ‘2.1.3’.  If this is not the number you see click <a href="https://docs.google.com/document/d/1KNA4Ih7xljer_lncXDbfR6WefSg8dsSKgRSMbvfjd4Q/edit?tab=t.0#heading=h.3czgf2p7ju41" target="_blank">here</a>.  
+If you are feeling curious you can run the app by loading the package `library(wallace)` and with the command `run_wallace()` . This will open the app in your default browser.  
+
+If you are an advanced user you could install our development beta version that includes some cool tools for modeling post-processing for conservation applications. Click <a href="https://docs.google.com/document/d/1KNA4Ih7xljer_lncXDbfR6WefSg8dsSKgRSMbvfjd4Q/edit?tab=t.0#heading=h.aqjz8jfgnv9i" target="_blank">here</a> for instructions.
 
 # Data
 Wallace comes equipped with access to several databases to upload occurrence and environmental data, as well as an option for the user to upload their own datasets.  
