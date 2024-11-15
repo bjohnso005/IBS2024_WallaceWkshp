@@ -46,7 +46,7 @@ Our 3hr workshop will be divided as follows:
 -   Lecture: Introduction to species distribution modeling; Introduction to R & Wallace (40 mins)
 -   Demo: Live demo using Wallace v2.1.3 (20 mins)
 -   Short break (10 mins)
-	During this break we can troubleshoot any installation issues
+-   	During this break we can troubleshoot any installation issues
 -   Using Wallace v2 with your own data (30 mins)
 -   Preview of new v3 features for conservation (15 mins)
 -   Conclusion & Questions
