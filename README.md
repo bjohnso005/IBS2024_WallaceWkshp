@@ -41,7 +41,15 @@ modeling and using R. They will use their own laptops to run Wallace for a hands
 experience, and will emerge more confident SDM users.  
 
 # Agenda
-Coming soon... 
+Our 3hr workshop will be divided as follows:
+-   Team & Group Introductions: Who we are & why we are here (40 mins)
+-   Lecture: Introduction to species distribution modeling; Introduction to R & Wallace (40 mins)
+-   Demo: Live demo using Wallace v2.1.3 (20 mins)
+-   Short break (10 mins)
+	During this break we can troubleshoot any installation issues
+-   Using Wallace v2 with your own data (30 mins)
+-   Preview of new v3 features for conservation (15 mins)
+-   Conclusion & Questions
 
 # Pre- & Post- Workshop Surveys
 
