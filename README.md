@@ -14,7 +14,7 @@
 # Logistics
 Date: 22 November 2024  
 Time: 2:00 – 5:00 p.m. GMT  
-Location: Virtual - Zoom Link will be provided.  
+Location: Virtual - Zoom Link: https://umontreal.zoom.us/j/84384339862  
 
 # Abstract
 Species distribution modeling (SDM) enables conservation scientists to make range
